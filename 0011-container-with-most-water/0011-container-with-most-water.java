@@ -8,7 +8,7 @@ class Solution {
             int minheight = Math.min(height[lp],height[rp]);
             curr_area = width * minheight;
             maxArea = Math.max(maxArea,curr_area);
-            // ternary operator
+            
             if(height[lp]<height[rp]){
                 lp++;
             }else{
