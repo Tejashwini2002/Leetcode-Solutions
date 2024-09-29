@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -43,6 +44,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
