@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -45,6 +46,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -56,6 +58,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
