@@ -16,6 +16,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1803-average-waiting-time](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/1803-average-waiting-time) |
 ## Simulation
@@ -29,6 +30,7 @@
 | [0011-container-with-most-water](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -68,6 +71,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -90,4 +94,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Tejashwini2002/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 <!---LeetCode Topics End-->
